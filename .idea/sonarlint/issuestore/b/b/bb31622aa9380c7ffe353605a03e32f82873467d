@@ -1,0 +1,8 @@
+
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö¢«îøÿÿÿÿ8ØÖ–‡¬.
+dsquid:S1126&"AReplace this if-then-else statement by a single return statement.(³ÀÀ¢úÿÿÿÿ8Ïï‘Ñ¬.
+\squid:S1155@">Use isEmpty() to check whether the collection is empty or not.(æÆËÔ8Ïï‘Ñ¬.
+^squid:S2274K";Remove this call to "await" or move it into a "while" loop.(×œªìþÿÿÿÿ8Ïï‘Ñ¬.
+{squid:S00116"WRename this field "DEFAULT_POOL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý³¡èýÿÿÿÿ8Ïï‘Ñ¬.
+Fsquid:S1148M"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ïï‘Ñ¬.
+dsquid:S2142L"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ïï‘Ñ¬.

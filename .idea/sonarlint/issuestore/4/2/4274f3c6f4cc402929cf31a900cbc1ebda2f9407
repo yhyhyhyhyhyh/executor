@@ -1,0 +1,21 @@
+
+]squid:S1155•">Use isEmpty() to check whether the collection is empty or not.(£ˆ³É8¡ñî°.
+usquid:S3776'"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(­ìÈŞúÿÿÿÿ8¡ñî°.
+qsquid:S3776“"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(€¬–™8¡ñî°.
+asquid:S1155\">Use isEmpty() to check whether the collection is empty or not.(ëãÙÚøÿÿÿÿ8¡ñî°.
+asquid:S1155n">Use isEmpty() to check whether the collection is empty or not.(Ü¶Ï•ÿÿÿÿÿ8¡ñî°.
+Usquid:S1751š"6Remove this "return" statement or make it conditional.(¸•å»8¡ñî°.
+9squid:S3626a"Remove this redundant jump.(ÉŠ©ƒ8¡ñî°.
+]squid:S1155Ÿ">Use isEmpty() to check whether the collection is empty or not.(ÄŞô¡8¡ñî°.
+asquid:S1155|">Use isEmpty() to check whether the collection is empty or not.(Ü¶Ï•ÿÿÿÿÿ8¡ñî°.
+\squid:S1155‰">Use isEmpty() to check whether the collection is empty or not.(ãĞºh8Òï‘Ñ¬.
+Fsquid:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¨«¤°.
+Usquid:S1751¤"6Remove this "return" statement or make it conditional.(—±ó€8¡ñî°.
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8•Ò¡Œ¬.
+Nsquid:S1066•"/Merge this if statement with the enclosing one.(£ˆ³É8¡ñî°.
+esquid:HiddenFieldCheckq"7Rename "job" which hides the field declared at line 27.(áÛø¿úÿÿÿÿ8¡ñî°.
+Gsquid:S1125‰")Remove the literal "false" boolean value.(ãĞºh8Òï‘Ñ¬.
+ssquid:UselessImportCheck
+"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8•Ò¡Œ¬.
+Nsquid:S1066Ÿ"/Merge this if statement with the enclosing one.(ÄŞô¡8öÒú °.
+9squid:S3626S"Remove this redundant jump.(ûÁİ…8üîĞ¬.

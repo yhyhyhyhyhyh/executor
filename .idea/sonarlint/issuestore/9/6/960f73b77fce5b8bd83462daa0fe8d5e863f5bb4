@@ -1,0 +1,27 @@
+
+U
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Š®ì]8•¤¨Ÿ°.
+[squid:S1854P"8Remove this useless assignment to local variable "job4".(­ıÿÿÿÿÿ8ÙíÅ °.
+Lsquid:S1481P")Remove this unused "job4" local variable.(­ıÿÿÿÿÿ8ÙíÅ °.
+Osquid:S1602,",Remove useless curly braces around statement(Ğ“Ë­ıÿÿÿÿ8•¤¨Ÿ°.
+U
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ğ–ãc8ÜËá°.
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(½± ®ûÿÿÿÿ8ÙíÅ °.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÜ²Ë8«ØÏ°.
+U
+squid:S106("9Replace this use of System.out or System.err by a logger.(Çú†?8ÖÄŸŸ°.
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(åëóÁüÿÿÿÿ8Í£Ã °.
+V
+squid:S106J"9Replace this use of System.out or System.err by a logger.(–•Í¦8ÙíÅ °.
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(Ø×ŞÕ8Í£Ã °.
+Osquid:S1602:",Remove useless curly braces around statement(Ğ“Ë­ıÿÿÿÿ8Í£Ã °.
+Osquid:S1602X",Remove useless curly braces around statement(Ğ“Ë­ıÿÿÿÿ8ÙíÅ °.
+V
+squid:S106T"9Replace this use of System.out or System.err by a logger.(²©‚»8ÙíÅ °.
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(¤œ·âşÿÿÿÿ8ÙíÅ °.
+Osquid:S1602I",Remove useless curly braces around statement(Ğ“Ë­ıÿÿÿÿ8ÙíÅ °.
